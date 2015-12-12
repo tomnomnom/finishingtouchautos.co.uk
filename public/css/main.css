@@ -176,3 +176,12 @@ ul.col li {
     font-size: 1rem;
   }
 }
+
+@media all and (max-width: 400px) {
+  ul.col li {
+    font-size: 0.8rem;
+  }
+  nav a {
+    font-size: 0.8rem;
+  }
+}
