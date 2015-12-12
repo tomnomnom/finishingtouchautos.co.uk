@@ -50,7 +50,7 @@
             <div class="image">
                 <img src="/images/focus.jpg" alt="A Finishing Touch Ford Focus">
                 <p>
-                    Finishing Touch Autos Ford Focus
+                    One of our creations
                 </p>
             </div>
         </section>
