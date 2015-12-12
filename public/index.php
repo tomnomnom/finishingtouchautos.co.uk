@@ -22,7 +22,7 @@
             <a href="/contact">Contact</a>
             <a href="/gallery">Gallery</a>
         </nav>
-        
+
         <section class="intro">
             <p>
                 We will do any modification for any vehicle, no matter how big or small.
@@ -32,7 +32,6 @@
         </section>
 
         <section class="cols">
-
             <ul class="col">
                 <li>Custom Paintwork</li>
                 <li>Accident Repair</li>
@@ -46,6 +45,16 @@
                 <li>Kit Cars Built</li>
             </ul>
         </section>
+
+        <section class="image">
+            <div class="image">
+                <img src="/images/focus.jpg" alt="A Finishing Touch Ford Focus">
+                <p>
+                    Finishing Touch Autos Ford Focus
+                </p>
+            </div>
+        </section>
+        
 
         <footer>
             <p>&copy; Finishing Touch Autos 2015</p>
