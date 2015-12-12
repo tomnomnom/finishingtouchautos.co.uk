@@ -43,7 +43,6 @@ header {
     color: #0E35C1;
 }
 
-
 nav {
     display: block;
     width: 100%;
@@ -112,16 +111,6 @@ abbr {
   border-bottom: 1px dotted #666666;
 }
 
-section.intro {
-    text-align: justify;
-}
-
-section.image {
-    display: block;
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
 div.image {
     width: 100%;
     margin: auto;
@@ -158,19 +147,27 @@ section.cols {
     width: 100%;
     margin-bottom: 2rem;
 }
-ul.col {
+.col {
     display: table-cell;
     padding: 0;
-    text-align: center;
-    font-weight: bold;
 }
 ul.col li {
+    text-align: center;
     margin: 0;
     margin-top: 0.75rem;
+    font-weight: bold;
     margin-bottom: 0.75rem;
     color: #0E35C1;
     text-shadow: 0 0 1px #666666;
     font-size: 1.3rem;
+}
+
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
 }
 
 @media all and (max-width: 600px) {
