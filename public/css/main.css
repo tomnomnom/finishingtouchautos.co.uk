@@ -171,6 +171,9 @@ dd {
 }
 
 @media all and (max-width: 600px) {
+  h2 {
+    font-size: 1.3rem;
+  }
   header img {
     width: 100%;
   }
@@ -193,6 +196,9 @@ dd {
 }
 
 @media all and (max-width: 400px) {
+  h2 {
+    font-size: 1.1rem;
+  }
   ul.col li {
     font-size: 0.8rem;
   }
