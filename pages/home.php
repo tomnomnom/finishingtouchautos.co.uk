@@ -22,7 +22,5 @@
 
 <div class="image">
     <img src="/images/focus.jpg" alt="A Finishing Touch Ford Focus">
-    <p>
-        One of our creations
-    </p>
+    <p>One of our creations</p>
 </div>

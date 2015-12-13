@@ -134,6 +134,18 @@ div.image p {
     font-size: 0.8rem;
 }
 
+div.image.tiled {
+    display: inline-block;
+    width: 40%;
+}
+
+section.gallery {
+    text-align: center;
+}
+section.gallery div.image {
+    margin-bottom: 1rem;
+}
+
 ul {
   list-style: none;
   padding-left: 1.5rem;

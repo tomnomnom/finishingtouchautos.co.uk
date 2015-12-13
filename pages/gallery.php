@@ -1,7 +1,19 @@
 <h2>Gallery</h2>
-<p>
-    There is no gallery page, because I haven't made one yet.
-</p>
-<p>
-    I will come and take some pictures soon... And probably lift some off the Facebook page.
-</p>
+<section class="gallery">
+    <div class="image tiled">
+        <img src="/images/gallery/02.jpg" alt="">
+        <p>Ford Focus</p>
+    </div>
+    <div class="image tiled">
+        <img src="/images/gallery/03.jpg" alt="">
+        <p>The Monster</p>
+    </div>
+    <div class="image tiled">
+        <img src="/images/gallery/04.jpg" alt="">
+        <p>TVR</p>
+    </div>
+    <div class="image tiled">
+        <img src="/images/gallery/05.jpg" alt="">
+        <p>TVR Again</p>
+    </div>
+</section>
