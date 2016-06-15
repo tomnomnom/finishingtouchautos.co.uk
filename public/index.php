@@ -33,6 +33,9 @@
             case "/gallery":
                 $page .= "gallery.php";
                 break;
+            case "/jig":
+                $page .= "jig.php";
+                break;
             case "/":
             default:
                 $page .= "home.php";

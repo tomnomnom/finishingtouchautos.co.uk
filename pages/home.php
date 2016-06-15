@@ -5,22 +5,20 @@
     checks with all up-to-date technology for any make or type of vehicle.
 </p>
 
-<section class="cols">
-    <ul class="col">
-        <li>Custom Paintwork</li>
-        <li>Accident Repair</li>
-        <li>Custom Bodywork</li>
-        <li>Restoration</li>
-    </ul>
-    <ul class="col">
-        <li>ICE / Security</li>
-        <li>Servicing / Repairs</li>
-        <li>Diagnostics / Electrics</li>
-        <li>Kit Cars Built</li>
-    </ul>
-</section>
+
+<h2>Services We Offer</h2>
+<ul>
+    <li>Custom Paintwork</li>
+    <li>Accident Repair</li>
+    <li>Custom Bodywork</li>
+    <li>Restoration</li>
+    <li><a href="/jig">Body Straightening (New!)</a></li>
+    <li>ICE / Security</li>
+    <li>Servicing / Repairs</li>
+    <li>Diagnostics / Electrics</li>
+    <li>Kit Cars Built</li>
+</ul>
 
 <div class="image">
-    <img src="/images/focus.jpg" alt="A Finishing Touch Ford Focus">
-    <p>One of our creations</p>
+    <img src="/images/sign.jpg" alt="The Finishing Touch Sign">
 </div>
