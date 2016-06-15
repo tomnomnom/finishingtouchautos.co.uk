@@ -1,6 +1,6 @@
 <h2>Body Straightening</h2>
 <p>
-    We can now straighten and repair any vehicle from classics to modern using our
+    We can now straighten and repair any vehicle, from classics to modern, using our
     alignment jig.
 </p>
 <p>
