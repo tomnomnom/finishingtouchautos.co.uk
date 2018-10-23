@@ -4,9 +4,6 @@
     <dt>Tel:</dt>
     <dd>01274 634045</dd>
 
-    <dt>Andy:</dt>
-    <dd>07971 100031</dd>
-
     <dt>Leigh:</dt>
     <dd>07713 254199</dd>
 
